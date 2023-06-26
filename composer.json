@@ -1,0 +1,16 @@
+{
+    "name": "sii/lt-framework",
+    "description": "light framework",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "sii"
+        }
+    ],
+    "require": {}
+}
